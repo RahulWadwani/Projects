@@ -1,0 +1,19 @@
+Assignment : statistics 
+
+
+summary 
+This data approaches student achievement in secondary education of two Portuguese schools. The Data attributes include student grades, demographic, social and school related features and it was collected by using school reports and questionnarires. Two datasets are provided regarding the performance in two distinc subjects: Mathematics(mat) and Portuguese language(por)
+
+
+dataset
+https://archieve.ics.uci.edu/ml/datasets/student+performance
+
+
+learning Objectives 
+perform data exploration using statistics 
+load the dataset into dataframe
+explore the data datatypes of each columns in dataset 
+explore the range of values of values for numerics values and distinct values for categorical values 
+explore the distribution of each column 
+explore the relationship between columns using correlation matrix
+Rank all the feature that would determin the overall grade
