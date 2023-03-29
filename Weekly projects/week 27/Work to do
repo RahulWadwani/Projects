@@ -1,0 +1,13 @@
+Assignment: Statistics -2
+
+
+summary
+This data set consists of placement data of students in a XYZ campus. It includes secondary and higher secondary school percentage and specailisation. It also includes degree specialisation, type and work experience and salary offers to the placed students.
+
+learning objectives :
+perform EDA to answer below questions:
+	which factor influenced a candidate in getting placed
+	does percentage matters for one to get placed
+	which degree specialisation is much demanded by corporate 
+	play with the data conducting all statistical test
+	
